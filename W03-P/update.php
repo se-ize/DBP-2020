@@ -14,6 +14,7 @@
   );
 
   if (isset($_GET['id'])) {
+      $filtered_id = mysqli_real_escape_string($link, $_GET['id']);
       $query = "SELECT * FROM drama WHERE id={$_GET['id']}";
       $result = mysqli_query($link, $query);
       $row = mysqli_fetch_array($result);
