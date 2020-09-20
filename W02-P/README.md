@@ -14,10 +14,12 @@
 ##  &#10004;문제가 발생하거나 고민한 내용 + 해결 과정
 **1. 교수님과 동일한 코드를 작성했으나 Undefined index 오류가 발생했다.**
 ![Screenshot_2020-09-11-17-30-10 (2)](https://user-images.githubusercontent.com/70623290/93707820-9f8bcb00-fb6c-11ea-950c-21b2bcdcc16d.png)
+
 php.ini 파일에서 error_reporing = ... & ~E_NOTICE로 변경 후 해결됐다.
 
 **2. description 내용이 홈페이지에 출력되지 않았으나, 문법적 오류가 발생하지 않았다.**
 ![SmartSelectImage_2020-09-11-18-27-57](https://user-images.githubusercontent.com/70623290/93707812-8f73eb80-fb6c-11ea-975b-d4f9bbea8811.png)
+
 descrption으로 오타가 난 부분을 수정한 후 해결됐다.
 
 ##  &#10004;참고할 만한 내용
@@ -28,5 +30,7 @@ https://opentutorials.org/course/3167/19591 생활코딩
 
 ##  &#10004;회고(+,-,!)
 *교수님이 열심히 가르쳐주시는게 느껴져서 좋았다(+)*
+
 *교수님과 똑같이 했다고 생각했는데 자꾸 오류가 발생해 힘들었다(-)*
+
 *PHP와 mySQL를 이용해서 서버에 연동하는 것을 성공해 뿌듯했다(!)*
