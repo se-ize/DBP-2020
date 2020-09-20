@@ -27,3 +27,6 @@ https://noirstar.tistory.com/264 SQL Injection의 자세한 공격 방법과 해
 *Push 실수로 이전 과제가 날라가서 속상했다.(-)*
 
 *커밋은 신중하게 하고, 백업을 생활화하자(!)*
+
+##  &#10004;동작 화면
+https://youtu.be/KzEXO53YkzI
