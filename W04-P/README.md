@@ -22,3 +22,4 @@ https://www.w3schools.com/html/html_forms.asp html 태그
 *강의 볼 때 핸드폰을 끄자(!)*
 
 ##  &#10004;동작 화면
+https://youtu.be/FwCcRnsYOoA
