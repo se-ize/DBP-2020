@@ -6,7 +6,7 @@
 - delete를 링크가 아닌 버튼으로 이용하는 이유는 보안을 강화하기 위해서이다.
 
 ##  &#10004;문제가 발생하거나 고민한 내용 + 해결 과정
-**1. syntax error, unexpected ';', expecting ')' 오류가 발생다.
+**1. syntax error, unexpected ';', expecting ')' 오류가 발생했다.
 
 세미콜론 앞에 )를 붙이지 않아서 발생했고, )를 넣었다.
 
