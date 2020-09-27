@@ -12,6 +12,8 @@
     'title' => '당신의 인생드라마를 소개해주세요&#128525;',
     'reason' => ''
   );
+  $update_link = '';
+  $delete_link = '';
 
   if (isset($_GET['id'])) {
       $query = "SELECT * FROM drama WHERE id={$_GET['id']}";
