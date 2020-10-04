@@ -28,3 +28,4 @@ https://recipes4dev.tistory.com/121 VMware 가상머신 백업방법
 *리눅스를 잘 다루고 싶다(!)*
 
 ##  &#10004;동작 화면
+https://youtu.be/gmvb3saZEFk
