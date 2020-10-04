@@ -11,7 +11,9 @@
 
 ##  &#10004;문제가 발생하거나 고민한 내용 + 해결 과정
 **1. chekdb.php 접속 과정에서 E325: ATTENTION 오류가 발생했다.
+
 $link = mysqli_connect("localhost", "admin", "admin", '''');로 작성해서 발생했다.
+
 $link = mysqli_connect("localhost", "admin", "admin". "");로 고치고 해결됐다
 
 ##  &#10004;참고할 만한 내용
