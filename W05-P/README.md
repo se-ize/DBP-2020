@@ -10,7 +10,7 @@
 - 우분투 뜻은 "네가 있으니 내가 있다."로 공용 정신을 중시한다.
 
 ##  &#10004;문제가 발생하거나 고민한 내용 + 해결 과정
-**1. chekdb.php 접속 과정에서 E325: ATTENTION 오류가 발생했다.
+**1. chekdb.php 접속 과정에서 E325: ATTENTION 오류가 발생했다.**
 
 $link = mysqli_connect("localhost", "admin", "admin", '''');로 작성해서 발생했다.
 
