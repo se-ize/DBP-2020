@@ -5,7 +5,10 @@
     <meta charset="utf-8">
     <title> 매장 재고 영화 시스템 </title>
     <style>
-        body { background-color: #F0DFF4; }
+        body { 
+            background-color: #F0DFF4;
+            text-align: center;
+            }
     </style>
 </head>
 
