@@ -1,6 +1,6 @@
-중간고사 과제 회고
+## 중간고사 과제 회고
 ##  &#10004;새로 배운 내용
--4개의 테이블을 조인하고, where문을 사용하는 방법을 알게 되었다.
+- 4개의 테이블을 조인하고, where문을 사용하는 방법을 알게 되었다.
 
 ##  &#10004;문제가 발생하거나 고민한 내용 + 해결 과정
 **1. mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in ~ 오류가 발생했다.**
