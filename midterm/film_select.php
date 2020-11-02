@@ -45,6 +45,7 @@
             background-color: #F0DFF4;
             font-family: Concolas,m monospace;
             font-family: 12px;
+            text-align: center;
         }
         table{
             width: 100%;
