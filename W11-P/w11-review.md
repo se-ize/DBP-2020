@@ -27,4 +27,4 @@ select e.* from (select a.* from departments a order by a.department_id DESC) e 
 
 
 ##  &#10004;동작 화면
-https://youtu.be/9whdwdB8AQI
+https://youtu.be/klh6ekTsnpo
