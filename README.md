@@ -27,7 +27,7 @@
   &nbsp; **3. 강좌등록**
   
 ![아비 (3)](https://user-images.githubusercontent.com/70623290/101924364-ed681a80-3c13-11eb-8d23-d9b85f9bf27a.png)
-![아비 (9)](https://user-images.githubusercontent.com/70623290/101925196-f60d2080-3c14-11eb-956d-de654191a022.png)
+![아비 (10)](https://user-images.githubusercontent.com/70623290/101925395-25bc2880-3c15-11eb-8ac9-3cf60c17f49d.png)
 
 등록할 강좌의 상세정보를 입력하고 강좌등록 버튼을 누르면 강좌가 등록된다.
 
