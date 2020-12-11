@@ -15,7 +15,7 @@
   &nbsp; **1. 강좌 안내**
   
 ![아비](https://user-images.githubusercontent.com/70623290/101924347-e8a36680-3c13-11eb-9db2-e1b4c3dc7f9e.png)
-![손뜨개 - Chrome 2020-12-12 오전 1_01_57](https://user-images.githubusercontent.com/70623290/101925905-c874a700-3c15-11eb-8dff-9ab4b7ac16cb.png)
+![아비 (12)](https://user-images.githubusercontent.com/70623290/101925950-d9bdb380-3c15-11eb-805d-dbb84bbf5c21.png)
 
 지역을 선택하고 검색하면 각 지역에 맞는 강좌들을 한 페이지당 10개씩 보여주고, 강좌명을 누르면 해당 강좌의 상세정보를 보여준다.
 
