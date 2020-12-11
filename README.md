@@ -38,7 +38,7 @@
   
 ![아비 (4)](https://user-images.githubusercontent.com/70623290/101924367-ef31de00-3c13-11eb-99ec-2fd1b4c41675.png)
 
-![아비 (7)](https://user-images.githubusercontent.com/70623290/101924609-3b7d1e00-3c14-11eb-8173-deb4090af2d0.png)
+![아비 (13)](https://user-images.githubusercontent.com/70623290/101926239-42a52b80-3c16-11eb-8fb4-5d67ec23dc1d.png)
 
 강좌명과 강사명으로 수정이나 삭제하고 싶은 강좌를 검색할 수 있도록 한다. 수정버튼을 통해 수정 후, 강좌 상세화면으로 이동하여 수정사항을 바로 확인할 수 있다. 강좌번호는 primary key로 수정할 수 없게 막아두었다. 강좌의 삭제버튼을 누르면 강좌가 바로 삭제된다. 수정/삭제 기능은 강좌 상세화면에서도 버튼으로 제공된다.
 
