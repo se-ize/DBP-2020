@@ -48,6 +48,10 @@
 ##  &#10004;구축 환경
 Dothome(호스팅), mySQL, PHP, HTML, 윈도우
 
+##  &#10004;데이터 출처
+공공데이터포털 <전국평생학습강좌표준데이터>
+https://www.data.go.kr/data/15013110/standard.do
+
 ##  &#10004;데이터 수집방법
 CSV 형식의 공공데이터를 다운받아 Navicat 프로그램을 이용해 mySQL에 import했다.
 mySQL에 import한 데이터를 .sql 형식으로 export해서 phpMyAdmin 데이터베이스에 import했다.
